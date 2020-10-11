@@ -3,10 +3,19 @@
 }
 
 #wrap_up{
-	margin-left: auto;
-	margin-right: auto;
+	width: 100%;
+}
+
+#wrap_up > h1{
+	text-align: center;
+	font-weight: 300;
+	padding: 25px;
 }
 
 .video__container{
-	display: flex;
+	margin-left: auto;
+    margin-right: auto;
+    width: 320px;
+    max-height: 240px;
+	transform: translateY(100%);
 }
