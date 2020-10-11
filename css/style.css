@@ -1,0 +1,12 @@
+*{
+	margin: 0;
+}
+
+#wrap_up{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.video__container{
+	display: flex;
+}
